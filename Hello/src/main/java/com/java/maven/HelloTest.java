@@ -12,5 +12,6 @@ public class HelloTest {
     public void test(){
         System.out.println("Hello , maven!");
         System.out.println("更新1");
+        System.out.println("创建分支");
     }
 }
