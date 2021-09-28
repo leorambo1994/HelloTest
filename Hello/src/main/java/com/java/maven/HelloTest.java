@@ -11,5 +11,6 @@ public class HelloTest {
     @Test
     public void test(){
         System.out.println("Hello , maven!");
+        System.out.println("更新1");
     }
 }
